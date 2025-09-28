@@ -1,6 +1,6 @@
 {
   "name": "instasports",
-  "homepage": "https://your-username.github.io/instasports",
+  "homepage": "https://AnweshiDas.github.io/instasports",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
